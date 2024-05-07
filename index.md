@@ -3,9 +3,9 @@ title: CASS Homepage
 subtitle: The Consortium for the Advancement of Scientific Software
 description: Homepage for The Consortium for the Advancement of Scientific Software
 ---
-
-<img src="CASS-Logo-V2.png" width="100" height="100">
-
+<div style="display: flex; justify-content: center;">
+    <img src="CASS-Logo-V2.png" width="100" height="100">
+</div>
 
 ## CASS Overview
 
