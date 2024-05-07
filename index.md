@@ -4,6 +4,9 @@ subtitle: The Consortium for the Advancement of Scientific Software
 description: Homepage for The Consortium for the Advancement of Scientific Software
 ---
 
+<img src="CASS-Logo-V2.png" width="100" height="100">
+
+
 ## CASS Overview
 
 The Consortium for the Advancement of Scientific Software (CASS) exists to foster collaboration across a diverse collection of Software Stewardship Organizations (SSOs).  Each SSO is charged with stewarding and advancing a portion of the scientific software ecosystem, e.g., math libraries, data and viz libraries and tools, and programming systems.  CASS is established to define and execute a governance model and related processes that enable the SSOs to operate as an aggregate unit.
