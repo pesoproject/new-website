@@ -1,7 +1,6 @@
 ---
 title: CASS Community BOF Days
-subtitle: Birds-of-a feather sessions for the scientific community
-description: Landing page for CASS BOF Days
+description: Birds-of-a-feather sessions for the scientific community
 ---
 
 <div style="display: flex; justify-content: center;">
