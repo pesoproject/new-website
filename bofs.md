@@ -2,10 +2,11 @@
 title: CASS Community BOF Days
 subtitle: Birds-of-a feather sessions for the scientific community
 description: Landing page for CASS BOF Days
-image: CASS-Logo.png
-hero_image: CASS-Logo-V2.png
-hero_height: is-fullheight
 ---
+
+<div style="display: flex; justify-content: center;">
+    <img src="CASS-Logo-V2.png" width="100" height="100">
+</div>
 
 ## 2024 CASS Community BOF Days
 ### June 11-13, 2024
