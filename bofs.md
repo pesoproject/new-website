@@ -1,6 +1,14 @@
+---
+title: CASS Community BOF Days
+subtitle: Birds-of-a feather sessions for the scientific community
+description: Landing page for CASS BOF Days
+---
+<div style="display: flex; justify-content: center;">
+    <img src="CASS-Logo-V2.png" width="100" height="100">
+</div>
 
-# 2024 CASS Community BOF Days
-## June 11-13, 2024
+## 2024 CASS Community BOF Days
+### June 11-13, 2024
 
 We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Days**, led by the newly established _Consortium for the Advancement of Scientific Software (CASS)_ and hosted by the PESO (Partnering for Scientific Software Ecosystem Stewardship) project.  This event builds on the tradition of ECP Community BOF Days, which were hosted by the DOE Exascale Computing Project (ECP) during 2021–2023. 
 
