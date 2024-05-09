@@ -16,4 +16,17 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 
 **What:** CASS Community BOF Days provide an opportunity for the high-performance computing community to engage with scientific software teams to discuss their latest development efforts.  Each of the 2024 BOF sessions on a given topic will last from 60 to 90 minutes and include a brief overview and a Q&A. The BOFs will be conducted via Zoom.
 
+**Session Topics:**
+- Differentiable and Portable Programming for Science
+- Kokkos EcoSystem - State of the Union
+- Near-term challenges and opportunities for I/O
+- ParaView and Catalyst
+- MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems
+- Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons
+- Foundations Forum (facilitated by CORSA)
+- Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship
+- Better Scientific Software Fellowship Community
+- SUNDIALS User Experiences
+- Introducing CASS: Consortium for the Advancement of Scientific Software
+
 **Sign up:** Sessions will be finalized soon.  Come back to this page to sign up for them.
