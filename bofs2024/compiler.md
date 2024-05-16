@@ -1,3 +1,8 @@
+---
+title: CASS Community BOF Days
+description: Birds-of-a-feather sessions for the scientific community
+---
+
 ## Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons 
 
 ### Speakers
