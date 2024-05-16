@@ -1,4 +1,3 @@
-# 2024 CASS Community BOF Days
 ## Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons 
 
 ### Speakers
