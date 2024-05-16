@@ -17,6 +17,7 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 **What:** CASS Community BOF Days allow the high-performance computing community to engage with scientific software teams to discuss their latest development efforts.  Each of the 2024 BOF sessions on a given topic will last from 60 to 90 minutes and include a brief overview and a Q&A. We will use Zoom to conduct the BOFs.
 
 **June 11, 2024**
+
 | Time | Topic | Sign up | Details |
 |---------|-------|---------|-------------|
 | 11:00 am| Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons  | [Register]() | [Details](bofs2024/compiler.md) |
