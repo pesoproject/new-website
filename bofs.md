@@ -21,22 +21,26 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 | Time | Topic | Sign up | Details |
 |---------|-------|---------|-------------|
 | 11:00 am| Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons  | [Register]() | [Details](bofs2024/compiler.md) |
-| 11:00 am| Foundations Forum | [Register]() | |
-|  1:00 pm| CASS | [Register]() | |
-| 3:00 pm| SUNDIALS| [Register]() | |
-| 3:00 pm| I/O Challenges & SciDAC| [Register]() | |
+| 11:00 am| Foundations Forum | [Register]() |  [Details](bofs2024/foundations.md)|
+|  1:00 pm| CASS | [Register]() |  [Details](bofs2024/cass.md)|
+|  3:00 pm| SUNDIALS| [Register]() |  [Details](bofs2024/sundials.md)|
+|  3:00 pm| I/O Challenges & SciDAC| [Register]() |  [Details](bofs2024/io.md)|
 
-**Session Topics:**
-- Differentiable and Portable Programming for Science
-- Kokkos EcoSystem - State of the Union
-- Near-term challenges and opportunities for I/O
-- ParaView and Catalyst
-- MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems
-- Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons
-- Foundations Forum (facilitated by CORSA)
-- Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship
-- Better Scientific Software Fellowship Community
-- SUNDIALS User Experiences
-- Introducing CASS: Consortium for the Advancement of Scientific Software
+**June 12, 2024**
+
+| Time | Topic | Sign up | Details |
+|---------|-------|---------|-------------|
+| 11:00 am| MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems  | [Register]() | [Details](bofs2024/mpich.md) |
+| 11:00 am| Differentiable and Portable Programming for Science | [Register]() |  [Details](bofs2024/differentiable.md)|
+|  1:00 pm| HPC Best Practices Webinar | [Register]() |  [Details](bofs2024/cass.md)|
+|  3:00 pm| Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship| [Register]() |  [Details](bofs2024/community.md)|
+|  3:00 pm| ParaView and Catalyst| [Register]() |  [Details](bofs2024/paraview.md)|
+
+**June 13, 2024**
+
+| Time | Topic | Sign up | Details |
+|---------|-------|---------|-------------|
+| 11:00 am| Kokkos EcoSystem - State of the Union  | [Register]() | [Details](bofs2024/kokkos.md) |
+|  3:00 pm| Better Scientific Software Fellowship Community| [Register]() |  [Details](bofs2024/bssw.md)|
 
 **Sign up:** Sessions will be finalized soon.  Come back to this page to sign up for them.

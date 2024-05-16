@@ -1,12 +1,14 @@
-# 2024 CASS Community BOF Days
-
+---
+title: CASS Community BOF Days
+description: Birds-of-a-feather sessions for the scientific community
+---
 ## MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems
 
 ### Speakers
 - Yanfei Guo, Argonne (lead)
-- Hui Zhou
-- Ken Raffenetti
-- Rajeev Thakur
+- Hui Zhou, Argonne
+- Ken Raffenetti, Argonne
+- Rajeev Thakur, Argonne
 
 ### Description
 
