@@ -3,7 +3,7 @@ title: CASS Community BOF Days
 description: Birds-of-a-feather sessions for the scientific community
 ---
 
-## Introducing CASS: Consortium for the Advancement of Scientific Software 
+## Introducing CASS: The Consortium for the Advancement of Scientific Software 
 
 ### Speakers
 

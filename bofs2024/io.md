@@ -3,7 +3,7 @@ title: CASS Community BOF Days
 description: Birds-of-a-feather sessions for the scientific community
 ---
 
-## Near term challenges and opportunities for I/O 
+## Near-term Challenges and Opportunities for I/O 
 
 ### Speakers
 - Rob Latham, Argonne
