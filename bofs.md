@@ -14,6 +14,8 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 
  CASS Community BOF Days enable the high-performance computing community to engage with scientific software teams to discuss their latest development efforts.  Each of the 2024 BOF sessions on a given topic will last from 60 to 90 minutes and include a brief overview and a Q&A. We will use Zoom to conduct the BOFs.
 
+ **Please note:** CASS will not host a BOF session at 1 pm ET on Wednesday, June 12. Instead, we bring to your attention the monthly HPC Best Practices Webinar and provide a direct link to the sign-up page for the webinar.
+
 
 |**Date**| **Time (ET)** | **Topic (Select Title for Details)** | **Sign up** |
 |-----------|-----------|----------------------------------|---------|
@@ -25,7 +27,7 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 |**Date**   | **Time (ET)** | **Topic (Select Title for Details)**| **Sign up** |
 |**June 12**| 11:00 am| [MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems](bofs2024/mpich.md) | [Register]() |
 |           | 11:00 am| [Differentiable and Portable Programming for Science](bofs2024/differentiable.md)| [Register]() |
-|           |  1:00 pm| [HPC Best Practices Webinar](bofs2024/cass.md)| [Register]() |
+|           |  1:00 pm| [HPC Best Practices Webinar: Strengthening Development Workflows by Graphically Communicating Elements of Software Design](https://ideas-productivity.org/events/hpcbp-084-communicatingdesign) | [Register](https://www.zoomgov.com/meeting/register/vJIsc-quqT8tHpd71RgLupEVRnTOHWSP5o0) |
 |           |  3:00 pm| [Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardshi](bofs2024/community.md)| [Register]() |
 |           |  3:00 pm| [ParaView and Catalys](bofs2024/paraview.md)| [Register]() |
 |**Date**| **Time (ET)**| **Topic (Select Title for Details)** | **Sign up** |
