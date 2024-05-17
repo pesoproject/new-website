@@ -10,7 +10,7 @@ description: Birds-of-a-feather sessions for the scientific community
 ## 2024 CASS Community BOF Days
 ### June 11-13, 2024
 
-We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Days**, led by the newly established _Consortium for the Advancement of Scientific Software (CASS)_ and hosted by the PESO (Partnering for Scientific Software Ecosystem Stewardship) project.  This event builds on the tradition of ECP Community BOF Days, which were hosted by the DOE Exascale Computing Project (ECP) during 2021–2023. 
+We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Days**, led by the newly established _Consortium for the Advancement of Scientific Software (CASS)_ and hosted by the _Partnering for Scientific Software Ecosystem Stewardship_ (PESO) project.  This event builds on the ECP Community BOF Days, hosted by the DOE Exascale Computing Project (ECP) during 2021–2023. 
 
  CASS Community BOF Days enable the high-performance computing community to engage with scientific software teams to discuss their latest development efforts.  Each of the 2024 BOF sessions on a given topic will last from 60 to 90 minutes and include a brief overview and a Q&A. We will use Zoom to conduct the BOFs.
 
@@ -24,13 +24,13 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 |-----------|-----------|----------------------------------|---------|
 |**June 11**| 11 am| [Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons](bofs2024/compiler.md) | [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIsceiorz4pGDWp31kH44OfMp5AnhRECZg) |
 |           | 11 am| [Foundations Forum](bofs2024/foundations.md)| [Register]() |
-|           |  1 pm| [Introducing CASS: Consortium for the Advancement of Scientific Software](bofs2024/cass.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIsfuCorjojHfHRLSglgh7BMah90CkiFxk) |
+|           |  1 pm| [Introducing CASS: The Consortium for the Advancement of Scientific Software](bofs2024/cass.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIsfuCorjojHfHRLSglgh7BMah90CkiFxk) |
 |           |  3 pm| [SUNDIALS User Experiences](bofs2024/sundials.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJItf-6gqjMtEz05KI3oTNO7q6LGI3_ltdc) |
-|           |  3 pm| [Near-term Challenges and Opportunities for I/O](bofs2024/io.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJItf-GprjIjHzEaP-5knCQNsx_1jbmMLI8) |
+|           |  3 pm| [Near-term Challenges and Opportunities for I/O](bofs2024/io.md)| [Register]() |
 |**Date**   | **Time (ET)** | **Topic (Select Title for Details)**| **Sign up** |
 |**June 12**| 11 am| [MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems](bofs2024/mpich.md) | [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIscumhpjksGsV4ueXzyCksELxaaW2_BBc) |
 |           | 11 am| [Differentiable and Portable Programming for Science](bofs2024/differentiable.md)| [Register]() |
-|           |  1 pm| [HPC Best Practices Webinar: Strengthening Development Workflows by Graphically Communicating Elements of Software Design](https://ideas-productivity.org/events/hpcbp-084-communicatingdesign) | [Register](https://www.zoomgov.com/meeting/register/vJIsc-quqT8tHpd71RgLupEVRnTOHWSP5o0) |
+|           |  1 pm| [HPC Best Practices Webinar: Strengthening Development Workflows by Graphically Communicating Elements of Software Design](https://ideas-productivity.org/events/hpcbp-084-communicatingdesign) - - Not a BOF but consider attending | [Register for Webinar](https://www.zoomgov.com/meeting/register/vJIsc-quqT8tHpd71RgLupEVRnTOHWSP5o0) |
 |           |  3 pm| [ParaView and Catalyst](bofs2024/paraview.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIsceihrz8qE3qjuM3V-7p3UjaFvHM2GKM) |
 |           |  3 pm| [Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship](bofs2024/community.md)| [Register]() |
 |**Date**| **Time (ET)**| **Topic (Select Title for Details)** | **Sign up** |
