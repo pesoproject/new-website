@@ -14,7 +14,10 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 
  CASS Community BOF Days enable the high-performance computing community to engage with scientific software teams to discuss their latest development efforts.  Each of the 2024 BOF sessions on a given topic will last from 60 to 90 minutes and include a brief overview and a Q&A. We will use Zoom to conduct the BOFs.
 
- **Please note:** CASS will not host a BOF session at 1 pm ET on Wednesday, June 12. Instead, we bring to your attention the monthly HPC Best Practices Webinar and provide a direct link to the sign-up page for the webinar.
+ **Please note:** 
+ - CASS will not host a BOF session at 1 pm ET on Wednesday, June 12. Instead, we bring to your attention the monthly HPC Best Practices Webinar and provide a direct link to the sign-up page for the webinar.
+ - Each BOF has its own Zoom registration link.  Sign up for each BOF separately. 
+ - If two BOFs are listed at the same time, they will run in parallel using separate Zoom sessions.
 
 
 |**Date**| **Time (ET)** | **Topic (Select Title for Details)** | **Sign up** |
@@ -23,7 +26,7 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 |           | 11 am| [Foundations Forum](bofs2024/foundations.md)| [Register]() |
 |           |  1 pm| [Introducing CASS: Consortium for the Advancement of Scientific Software](bofs2024/cass.md)| [Register]() |
 |           |  3 pm| [SUNDIALS User Experiences](bofs2024/sundials.md)| [Register]() |
-|           |  3 pm| [I/O Challenges & SciDA](bofs2024/io.md)| [Register]() |
+|           |  3 pm| [I/O Challenges & SciDAC](bofs2024/io.md)| [Register]() |
 |**Date**   | **Time (ET)** | **Topic (Select Title for Details)**| **Sign up** |
 |**June 12**| 11 am| [MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems](bofs2024/mpich.md) | [Register]() |
 |           | 11 am| [Differentiable and Portable Programming for Science](bofs2024/differentiable.md)| [Register]() |
