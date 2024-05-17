@@ -17,7 +17,7 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 
 |**Date**| **Time (ET)** | **Topic (Select Title for Details)** | **Sign up** |
 |-----------|-----------|----------------------------------|---------|
-|**June 11**| 11:00 am| [Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons](bofs2024/compiler.md) | [Register](https://exascaleproject.zoomgov.com/j/1618839120?pwd=SzFFTnM4TkJSS2IvZXl6MXppRGE1Zz09) |
+|**June 11**| 11:00 am| [Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons](bofs2024/compiler.md) | [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIsceiorz4pGDWp31kH44OfMp5AnhRECZg) |
 |           | 11:00 am| [Foundations Forum](bofs2024/foundations.md)| [Register]() |
 |           |  1:00 pm| [Introducing CASS: Consortium for the Advancement of Scientific Software](bofs2024/cass.md)| [Register]() |
 |           |  3:00 pm| [SUNDIALS User Experiences](bofs2024/sundials.md)| [Register]() |
