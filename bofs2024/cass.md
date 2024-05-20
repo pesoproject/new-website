@@ -8,9 +8,9 @@ description: Birds-of-a-feather sessions for the scientific community
 ### Speakers
 
 CASS Formation Team:
-- Lois Curfman McInnes, Argonne
 - David Bernholdt, ORNL
 - Phil Carns, Argonne
+- Lois Curfman McInnes, Argonne
 
 SSO Representatives:
 - COLABS: Anshu Dubey, David Bernholdt
