@@ -4,7 +4,10 @@ description: Birds-of-a-feather sessions for the scientific community
 ---
 
 <div style="display: flex; justify-content: center;">
-    <img src="CASS-Logo-V2.png" width="100" height="100">
+    <a href="https://cass.community"> <img src="CASS-Logo-V2.png" width="100" height="100"></a>
+</div>
+<div style="display: flex; justify-content: center;">
+     <a href=https://cass.community">https://cass.community</a>
 </div>
 
 ## 2024 CASS Community BOF Days

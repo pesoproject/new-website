@@ -8,7 +8,7 @@ description: Homepage for The Consortium for the Advancement of Scientific Softw
 </div>
 
 <div style="display: flex; justify-content: center;">
-    <a href="bofs.html">Get info on the first CASS Community BOF Days</a>
+    <a href="bofs.html">Get info on the first CASS Community BOF Days <span>&#8594;</span></a>
 </div>
 
 ## CASS Overview
@@ -45,3 +45,7 @@ will:
 - **Maximize the impact of Consortium resources and capabilities for the benefit of the ecosystem at large:** By improving efficiency by combining and coordinating infrastructure, planning, and resources across the ecosystem.
 - **Maintain situational awareness and balanced coverage of the evolving needs of scientific computing:** By identifying gaps, incompatibilities, and other issues to be addressed in a coordinated fashion across the Consortium.
 - **Ensure the long-term viability and sustainability of the Consortium:** By exploring and executing plans for ensuring secure funding sources, including the growth of the Consortium through the expansion of membership.
+
+### CASS Member Organizations
+
+The initial member organizations (COLABS, CORSA, PESO, S4PST, STEP and SWAS, together with the FASTMath and RAPIDS SciDAC Institutes) have been supported by the U.S. Department of Energy Office of Advanced Scientific Computing Research (ASCR) as part of the Next-Generation Scientific Software Technologies (NGSST) program to steward the ASCR scientific software portfolio, including products developed or enhanced as part of the Exascale Computing Project (ECP) Software Technologies. As a member-driven organization, CASS is open to other software stewardship organizations joining too.
