@@ -34,7 +34,7 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 |           |  3 pm| [ParaView and Catalyst](bofs2024/paraview.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIsceihrz8qE3qjuM3V-7p3UjaFvHM2GKM) |
 |           |  3 pm| [Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship](bofs2024/community.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJIsd-iqqT8iG9Nj06NmzDat9v110h1DKYo) |
 |**Date**| **Time (ET)**| **Topic (Select Title for Details)** | **Sign up** |
-|**June 13**| 11 am| [Kokkos EcoSystem - State of the Union](bofs2024/kokkos.md) | [Register](https://exascaleproject.zoomgov.com/meeting/register/vJItdu2urTIiGGJgnxCDPRYRUVKcvTunEpQ) |
+|**June 13**| 11 am| [Kokkos Ecosystem - State of the Union](bofs2024/kokkos.md) | [Register](https://exascaleproject.zoomgov.com/meeting/register/vJItdu2urTIiGGJgnxCDPRYRUVKcvTunEpQ) |
 |           |  3 pm| [Better Scientific Software Fellowship Community](bofs2024/bsswf.md)| [Register](https://exascaleproject.zoomgov.com/meeting/register/vJItce6upjgiGT7sgQtCM2pOLKsQZwqMnhU) |
 
 ### Contact 
