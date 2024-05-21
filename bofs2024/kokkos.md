@@ -6,7 +6,7 @@ description: Birds-of-a-feather sessions for the scientific community
 ## Kokkos Ecosystem - State of the Union
 
 ### Speakers
-- Christian Trott, Sandia (Lead)
+- Christian Trott, Sandia
 - Damien Lebrun-Grandie, ORNL
 - Siva Rajamanickam, Sandia
 - Luc Berger-Vergiat, Sandia 
