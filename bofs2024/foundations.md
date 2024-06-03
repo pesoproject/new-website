@@ -3,6 +3,8 @@ title: CASS Community BOF Days
 description: Birds-of-a-feather sessions for the scientific community
 ---
 
+[Go To Main BOF Schedule Page](../bofs.md)
+
 ## Foundations Forum 
 
 ### Speakers
