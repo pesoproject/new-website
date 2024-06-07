@@ -9,7 +9,7 @@ description: Birds-of-a-feather sessions for the scientific community
 
 ### Speakers
 - Elsa Gonsiorowski, LLNL
-- Erik Palmer, Berkely Lab
+- Erik Palmer, LBNL
 - Mary Ann Leung, Sustainable Horizons Institute
 
 ### Description
