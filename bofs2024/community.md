@@ -9,7 +9,15 @@ description: Birds-of-a-feather sessions for the scientific community
 
 ### Speakers
 
-- Suzanne Parete-Koon, ORNL 
+- Suzanne Parete-Koon, ORNL
+- Mary Ann Leung, Sustainable Horizons Institute
+- Anshu Dubey, ANL
+- William Godoy, ORNL
+- Terry Jones, ORNL
+- Dan Martin, LBNL
+- Lois Curfman McInnes, ANL
+- Elaine Raybourn, SNL
+- Lavanya Ramakrishnan, LBNL
 
 ### Description
 
