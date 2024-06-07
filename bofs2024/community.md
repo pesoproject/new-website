@@ -16,8 +16,9 @@ description: Birds-of-a-feather sessions for the scientific community
 - Terry Jones, ORNL
 - Dan Martin, LBNL
 - Lois Curfman McInnes, ANL
-- Elaine Raybourn, SNL
 - Lavanya Ramakrishnan, LBNL
+- Elaine Raybourn, SNL
+
 
 ### Description
 
