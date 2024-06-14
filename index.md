@@ -7,9 +7,8 @@ description: Homepage for The Consortium for the Advancement of Scientific Softw
     <img src="CASS-Logo-V2.png" width="100" height="100">
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <a href="bofs.html">Get info on the first CASS Community BOF Days <span>&#8594;</span></a>
-</div>
+[Latest CASS News](#cass-news)
+
 
 ## CASS Overview
 
@@ -49,3 +48,9 @@ will:
 ### CASS Member Organizations
 
 The initial member organizations (COLABS, CORSA, PESO, S4PST, STEP and SWAS, together with the FASTMath and RAPIDS SciDAC Institutes) have been supported by the U.S. Department of Energy Office of Advanced Scientific Computing Research (ASCR) as part of the Next-Generation Scientific Software Technologies (NGSST) program to steward the ASCR scientific software portfolio, including products developed or enhanced as part of the Exascale Computing Project (ECP) Software Technologies. As a member-driven organization, CASS is open to other software stewardship organizations joining too.
+
+### CASS News
+
+- New blog article: [Introducing the Consortium for the Advancement of Scientific Software (CASS)](https://bssw.io/blog_posts/introducing-the-consortium-for-the-advancement-of-scientific-software-cass)
+- Info on the first [CASS Community BOF Days](bofs.html)
+
