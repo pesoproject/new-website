@@ -51,15 +51,15 @@ The initial member organizations (COLABS, [CORSA](https://corsa.center), [PESO](
 
 ### Connect with CASS
 
-We welcome you to connect with CASS through any of the following:
-- Complete an [online form](https://2nyurl.com/2024-CASS-BOFS) to tell us about yourself and your interests related to scientific software stewardship.
+We welcome you to connect with the Consortium through any of the following:
+- Complete an [online form](https://tinyurl.com/2024-CASS-BOFS) to tell us about yourself and your interests related to scientific software stewardship.
 - Subscribe to the [CASS announcement mailing list](http://eepurl.com/iRiSnY) to learn about events we’re organizing and other news from the consortium and our members.
-- [Send email](cass-steering-committee@email.ornl.gov) to start a conversation with the CASS leadership team.
+- [Send email](mailto:cass-steering-committee@email.ornl.gov) to start a conversation with the CASS leadership team.
 
 ### CASS News
 
+Check out the latest CASS news:
 - New blog article: [Introducing the Consortium for the Advancement of Scientific Software (CASS)](https://bssw.io/blog_posts/introducing-the-consortium-for-the-advancement-of-scientific-software-cass)
-- Slides from recent BOF: [Introducting CASS](https://cass.community/bofs2024/cass_slides.pdf)
+- Slides from a recent BOF: [Introducing CASS](https://cass.community/bofs2024/cass_slides.pdf)
 - Info on the first [CASS Community BOF Days](bofs.html)
-
 
