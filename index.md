@@ -47,10 +47,19 @@ will:
 
 ### CASS Member Organizations
 
-The initial member organizations (COLABS, CORSA, PESO, S4PST, STEP and SWAS, together with the FASTMath and RAPIDS SciDAC Institutes) have been supported by the U.S. Department of Energy Office of Advanced Scientific Computing Research (ASCR) as part of the Next-Generation Scientific Software Technologies (NGSST) program to steward the ASCR scientific software portfolio, including products developed or enhanced as part of the Exascale Computing Project (ECP) Software Technologies. As a member-driven organization, CASS is open to other software stewardship organizations joining too.
+The initial member organizations (COLABS, [CORSA](https://corsa.center), [PESO](https://pesoproject.org), S4PST, [STEP](https://ascr-step.org) and [SWAS](https://swas.center), together with the [FASTMath](https://scidac5-fastmath.lbl.gov) and [RAPIDS](https://rapids.lbl.gov) SciDAC Institutes) have been supported by the U.S. Department of Energy Office of Advanced Scientific Computing Research ([ASCR](https://science.osti.gov/ascr)) as part of the Next-Generation Scientific Software Technologies (NGSST) program to steward the ASCR scientific software portfolio, including products developed or enhanced as part of the Exascale Computing Project ([ECP](https://www.exascaleproject.org)) Software Technologies. As a member-driven organization, CASS is open to other software stewardship organizations joining too.
+
+### Connect with CASS
+
+We welcome you to connect with CASS through any of the following:
+- Complete an [online form](https://2nyurl.com/2024-CASS-BOFS) to tell us about yourself and your interests related to scientific software stewardship.
+- Subscribe to the [CASS announcement mailing list](http://eepurl.com/iRiSnY) to learn about events we’re organizing and other news from the consortium and our members.
+- [Send email](cass-steering-committee@email.ornl.gov) to start a conversation with the CASS leadership team.
 
 ### CASS News
 
 - New blog article: [Introducing the Consortium for the Advancement of Scientific Software (CASS)](https://bssw.io/blog_posts/introducing-the-consortium-for-the-advancement-of-scientific-software-cass)
+- Slides from recent BOF: [Introducting CASS](https://cass.community/bofs2024/cass_slides.pdf)
 - Info on the first [CASS Community BOF Days](bofs.html)
+
 
