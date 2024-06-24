@@ -1,0 +1,102 @@
+---
+layout: default
+permalink: /
+---
+
+<section class="bg-white py-8">
+    <div class="container mx-auto px-2 pt-4 pb-12 text-gray-800">
+        <div class="flex flex-col sm:flex-row justify-center pt-12 my-12 sm:my-4">
+
+            <div class="w-5/6 p-10">
+                <h3 class="text-3xl text-gray-800 font-bold leading-none">
+                    CASS Overview
+                </h3>
+                <p class="text-gray-600 mb-8">
+                    {% capture overview %}{% include overview.md %}{% endcapture %}
+                    {{ overview | markdownify }}
+                </p>
+
+                <h3 class="text-3xl text-gray-800 font-bold leading-none mt-10">
+                    CASS Mission
+                </h3>
+                <p class="text-gray-600 mb-8">
+                    {% capture mission %}{% include mission.md %}{% endcapture %}
+                    {{ mission | markdownify }}
+                </p>
+
+                <h3 class="text-3xl text-gray-800 font-bold leading-none mt-10">
+                    CASS Principles
+                </h3>
+                <p class="text-gray-600 mb-8">
+                    {% capture principles %}{% include principles.md %}{% endcapture %}
+                    {{ principles | markdownify }}
+                </p>
+            </div>
+
+            <div class="flex flex-col w-5/6 lg:w-1/4 mx-auto lg:mx-0 rounded-none lg:rounded-l-lg bg-white mt-4">
+                <div class="flex-1 bg-white text-gray-600 rounded-t rounded-b-none overflow-hidden shadow">
+                    <div class="p-8 text-2xl font-bold text-center border-b-4">
+                        Latest News
+                    </div>
+                    <ul class="w-full text-center text-sm">
+                        {% for news in site.data.news limit: 6 %}
+                        <li class="border-b py-4 p-2">
+                            <a href="{{ news.link }}" target="_blank">{{ news.title }}</a><br />
+                            <span style="font-size: 0.8em; color: #999">{{ news.date }}</span>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="bg-gray-100 py-8">
+    <div class="container max-w-5xl mx-auto m-8">
+        <div class="flex flex-wrap">
+            <div class="w-full sm:w-1/2 p-6">
+                <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
+                    CASS Member Organizations
+                </h3>
+                <p class="text-gray-600 mb-8">
+                    The initial member organizations (COLABS, <a class="text-pink-500 underline"
+                        href="https://corsa.center" target="_blank">CORSA</a>, <a class="text-pink-500 underline"
+                        href="https://pesoproject.org" target="_blank">PESO</a>, S4PST, <a
+                        class="text-pink-500 underline" href="https://ascr-step.org" target="_blank">STEP</a> and <a
+                        class="text-pink-500 underline" href="https://swas.center" target="_blank">SWAS</a>, together
+                    with the <a class="text-pink-500 underline" href="https://scidac5-fastmath.lbl.gov"
+                        target="_blank">FASTMath</a> and <a class="text-pink-500 underline"
+                        href="https://rapids.lbl.gov" target="_blank">RAPIDS</a> SciDAC Institutes) have been supported
+                    by the U.S. Department of Energy Office of Advanced Scientific Computing Research
+                    (<a href="https://science.osti.gov/ascr" target="_blank" class="text-pink-500 underline">ASCR</a>)
+                    as part of the Next-Generation Scientific Software Technologies (NGSST) program to steward the ASCR
+                    scientific software portfolio, including products developed or enhanced as part of the Exascale
+                    Computing Project (<a href="https://www.exascaleproject.org" target="_blank"
+                        class="text-pink-500 underline">ECP</a>) Software Technologies. As a member-driven organization,
+                    CASS is open to other software stewardship organizations joining too.
+                </p>
+            </div>
+            <div class="w-full sm:w-1/2 p-6">
+                <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
+                    Connect with CASS
+                </h3>
+                <p class="text-gray-600 mb-0">
+                    We welcome you to connect with the Consortium through any of the following:
+                </p>
+
+                <ul class="text-gray-600" style="list-style: circle; margin-left: 1em">
+                    <li>Complete an <a href="https://tinyurl.com/2024-CASS-BOFS" target="_blank"
+                            class="text-pink-500 underline">online form</a> to tell us about yourself and your interests
+                        related to scientific software stewardship.</li>
+                    <li>Subscribe to the <a href="http://eepurl.com/iRiSnY" target="_blank"
+                            class="text-pink-500 underline">CASS announcement mailing list</a> to learn about events we
+                        are organizing and other news from the consortium and our members.
+                    <li><a href="mailto:cass-steering-committee@email.ornl.gov" class="text-pink-500 underline">Send
+                            email</a> to start a conversation with the CASS leadership team. </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
