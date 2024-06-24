@@ -20,16 +20,16 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 
 |**Date**| **Time (ET)** | **Topic (Select Title for Details)** | **Slides** |
 |-----------|-----------|----------------------------------|---------|
-|**June 11**| 11 am| [Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons](2024/compiler) | Available soon |
-|           | 11 am| [Foundations Forum](2024/foundations) | Available soon |
-|           |  1 pm| [Introducing CASS: The Consortium for the Advancement of Scientific Software](2024/cass) | [Available](/bofs/2024/cass_slides.pdf) |
-|           |  3 pm| [SUNDIALS User Experiences](2024/sundials) | Available soon |
-|           |  3 pm| [Near-term Challenges and Opportunities for I/O](2024/io) | Available soon |
+|**June 11**| 11 am| [Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons](/bofs/2024/compiler) | Available soon |
+|           | 11 am| [Foundations Forum](/bofs/2024/foundations) | Available soon |
+|           |  1 pm| [Introducing CASS: The Consortium for the Advancement of Scientific Software](/bofs/2024/cass) | [Available](/bofs/2024/cass_slides.pdf) |
+|           |  3 pm| [SUNDIALS User Experiences](/bofs/2024/sundials) | Available soon |
+|           |  3 pm| [Near-term Challenges and Opportunities for I/O](/bofs/2024/io) | Available soon |
 |**Date**   | **Time (ET)** | **Topic (Select Title for Details)**| **Slides** |
-|**June 12**| 11 am| [MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems](2024/mpich) | Available soon |
-|           | 11 am| [Differentiable and Portable Programming for Science](2024/differentiable) | Available soon |
-|           |  3 pm| [ParaView and Catalyst](2024/paraview) | Available soon |
-|           |  3 pm| [Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship](2024/community) | Available soon |
+|**June 12**| 11 am| [MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems](/bofs/2024/mpich) | Available soon |
+|           | 11 am| [Differentiable and Portable Programming for Science](/bofs/2024/differentiable) | Available soon |
+|           |  3 pm| [ParaView and Catalyst](/bofs/2024/paraview) | Available soon |
+|           |  3 pm| [Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship](/bofs/2024/community) | Available soon |
 |**Date**| **Time (ET)**| **Topic (Select Title for Details)** | **Slides** |
-|**June 13**| 11 am| [Kokkos Ecosystem - State of the Union](2024/kokkos) | Available soon |
-|           |  3 pm| [Better Scientific Software Fellowship Community](2024/bsswf)| Available soon |
+|**June 13**| 11 am| [Kokkos Ecosystem - State of the Union](/bofs/2024/kokkos) | Available soon |
+|           |  3 pm| [Better Scientific Software Fellowship Community](/bofs/2024/bsswf)| Available soon |
