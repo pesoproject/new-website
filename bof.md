@@ -21,7 +21,7 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 |**Date**| **Time (ET)** | **Topic (Select Title for Details)** | **Slides** |
 |-----------|-----------|----------------------------------|---------|
 |**June 11**| 11 am| [Exploring the Landscape of AI and ML in Compiler Development: Pros and Cons](/bofs/2024/compiler) | Available soon |
-|           | 11 am| [Foundations Forum](/bofs/2024/foundations) | Available soon |
+|           | 11 am| [Foundations Forum](/bofs/2024/foundations) | [Available](/bofs/2024/CASS-BOF-2024-Foundations-Forum.pdf) |
 |           |  1 pm| [Introducing CASS: The Consortium for the Advancement of Scientific Software](/bofs/2024/cass) | [Available](/bofs/2024/cass_slides.pdf) |
 |           |  3 pm| [SUNDIALS User Experiences](/bofs/2024/sundials) | Available soon |
 |           |  3 pm| [Near-term Challenges and Opportunities for I/O](/bofs/2024/io) | [Available](/bofs/2024/CASS-BOF-2024-io-challenges.pdf) |
