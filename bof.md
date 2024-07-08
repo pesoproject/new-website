@@ -28,7 +28,7 @@ We are pleased to announce the **2024 CASS Community Birds-of-a-Feather (BOF) Da
 |**Date**   | **Time (ET)** | **Topic (Select Title for Details)**| **Slides** |
 |**June 12**| 11 am| [MPICH: A High-Performance Open Source MPI Library for Leadership-class HPC Systems](/bofs/2024/mpich) | [Available](/bofs/2024/CASS-BOF-2024-MPICH.pdf) |
 |           | 11 am| [Differentiable and Portable Programming for Science](/bofs/2024/differentiable) | Available soon |
-|           |  3 pm| [ParaView and Catalyst](/bofs/2024/paraview) | Available soon |
+|           |  3 pm| [ParaView and Catalyst](/bofs/2024/paraview) | [Available](/bofs/2024/CASS-BOF-2024-ParaViewAndCatalyst.pdf) |
 |           |  3 pm| [Building an Inclusive and Productive Community from Many Organizations to Support Software Stewardship](/bofs/2024/community) | [Available](/bofs/2024/CASS-BOF-2024-Building-our-Software-Stewardship-Community.pdf) |
 |**Date**| **Time (ET)**| **Topic (Select Title for Details)** | **Slides** |
 |**June 13**| 11 am| [Kokkos Ecosystem - State of the Union](/bofs/2024/kokkos) | Available soon |
