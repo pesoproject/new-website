@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /organizational-model
-title: CASS Organizational Model
+title: PESO Organizational Model
 ---
 
 The Consortium is a federation of member organizations committed to actively pursuing the stated
